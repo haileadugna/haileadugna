@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there 👋, Haile Adugna
+### Haile Adugna
 #### Software Engineer
 ![Software Engineer](https://avatars.githubusercontent.com/u/98773895?s=48&v=4)
 
