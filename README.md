@@ -1,6 +1,6 @@
 ### Hi there 👋, Haile Adugna
 #### Software Engineer
- I'm, a passionate software student at Addis Ababa University. I'm on a mission to create innovative solutions through code and bring positive change to the world of technology.
+ I'm, a passionate software engineer. I'm on a mission to create innovative solutions through code and bring positive change to the world of technology.
 
 Skills: PYTHON/ANGULAR/FLUTTER/NESTJS / REACT / JS / HTML / CSS
 
