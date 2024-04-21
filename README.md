@@ -1,15 +1,17 @@
 # Hi there 👋, I'm Haile Adugna
 ## Software Engineer | Passionate Coder | Innovator
 
-Welcome to my GitHub profile! I'm a dedicated software engineer with a passion for building innovative solutions that make a positive impact. With expertise in Python, Angular, Flutter, NestJS, React, JavaScript, HTML, and CSS, I'm committed to pushing the boundaries of technology.
+Welcome to my GitHub profile! I'm a dedicated software engineer with a passion for building innovative solutions that make a positive impact. With expertise in various technologies, I'm committed to pushing the boundaries of technology.
 
 ### Skills
-- PYTHON | ANGULAR | FLUTTER | NESTJS | REACT | JS | HTML | CSS
-
-### Projects
-- [Project 1](link_to_project1): Short description of the project.
-- [Project 2](link_to_project2): Short description of the project.
-- [Project 3](link_to_project3): Short description of the project.
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/haileadugna)
